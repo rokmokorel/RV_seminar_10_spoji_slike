@@ -1,15 +1,9 @@
-# RV_spoji_slike
+# RV_spojanje_slik
 <p>
-Spajanje slik pri predmetu robotski vid
+Juričevič JAN, Mokorel ROK
 </p>
-################################ tutorial 1 ################################
 <p>
-metoda_1.ipynb je program ki se opira na opira na https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
-<br>v mapi image-stitching-opencv je originalna koda tega tutoriala
-</p>
-################################ tutorial 2 ################################
-<p>
-metoda_sift.ipynb je program(metoda SIFT), ki se opira na https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
-<br>v mapi panorama-stitching je originalna koda tega tutoriala
-<br>zlepek.py so prilagojene funkcije ya najino aplikacijo in se uporabi/uvozi v metoda_sift.ipynb
+  Navodila za izvanje<br>v mapi RV_spoji_slike_master sta dva jupyter zvezka<br>
+  zvezek metoda_1.ipynb spoji poljubno stevilo slik v poljubnem zaporedju.<br>
+  zvezek metoda_sift.ipynb spoji poljubno stevilo slik, ki pa morajo biti podane v pravilnem zaporedju. Uporabljena je funkcija cv2.xfeatures2d.SIFT_create()<br>
 </p>
