@@ -1,6 +1,6 @@
 # RV_spojanje_slik
 <p>
-Juričevič JAN, Mokorel ROK
+JURIČEVIČ Jan, MOKOREL Rok
 </p>
 <p>
   Navodila za izvanje:<br>v mapi RV_spoji_slike_master sta dva jupyter zvezka<br>
